@@ -1,4 +1,4 @@
-# Binders 
+# Binders (Incognito Recommended)
 
 ## Homepage and File Access
 
